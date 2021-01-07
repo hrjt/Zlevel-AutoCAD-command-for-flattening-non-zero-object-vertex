@@ -1,4 +1,4 @@
-# Zlevel---AutoCAD-command-for-fixing-non-zeop-vertex
+# Zlevel---AutoCAD-command-for-fixing-non-zero-vertex
 fix your autocad drawings where object vertex are moved in z axis.
 
 How to Use?
