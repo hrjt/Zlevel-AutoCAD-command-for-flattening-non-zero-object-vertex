@@ -9,12 +9,13 @@ How to Use?
 I am a freelancer with passion for technology. 
 I am available to be hired for development of any type of:
 
-<a href="https://www.virses.com">3D Architectural Renderings and Walkthrough Animations</a>.
-AutoCAD custom command development and Automation.
-Mobile -Android and iOS application development.
-Website Development: eCommerce, Audio-Video, Company Listing and Portfolio platforms.
-SEO: Search Engine Optimization and Promotions.
-Windows Desktop Software Application Developent Custom Managed Website Hosting.
+- 3D <a href="https:\\www.virses.com" alt="architectural renderings and animations freelancer">Architectural Renderings and Walkthrough Animations</a>
+- AutoCAD custom command development and Automation
+- Mobile -Android and iOS application development
+- Website Development: eCommerce, Audio-Video, Company Listing and Portfolio platforms.
+- SEO: Search Engine Optimization and Promotions
+- Windows Desktop Software Application Developent
+- Custom Managed Website Hosting
 
 my site: https://www.virses.com
-contact: harjeetsingh[at]yahoo.com
+- contact me: https://www.virses.com/architectural-renderings-contact
