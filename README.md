@@ -16,4 +16,4 @@ SEO: Search Engine Optimization and Promotions
 Windows Desktop Software Application Developent Custom Managed Website Hosting
 
 my site: https://www.virses.com
-contact: harjeetsingh<at>yahoo.com
+contact: harjeetsingh[at]yahoo.com
